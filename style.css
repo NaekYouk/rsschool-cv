@@ -38,8 +38,15 @@ ul {
     margin: 0 auto;
     background-color: cadetblue;
     border-radius: 5px;
-    margin-top: 5px;
+    margin-top: 10px;
+    margin-bottom: 20px;
     padding-bottom: 40px;
+    transition: transform .2s linear, box-shadow .2s linear;
+}
+
+.container:hover {
+    transform: translate3d(-1px, -1px, 0);
+    box-shadow: 5px 5px 5px #000000;
 }
 
 .user {
@@ -115,3 +122,18 @@ ul {
     color: antiquewhite;
     text-decoration: none;
 }
+
+
+.section__text-list {
+    list-style: none;
+}
+
+.section__table {
+    margin: 0 auto;
+}
+
+.section table td, tr {
+    padding: 10px;
+    background-color: rgb(255, 248, 240);
+}
+
