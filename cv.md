@@ -15,3 +15,8 @@
 	Puzzle(C)| 9
 	Operations research(С)| 8
 	SQL | 9
+7. __SoloLearn:__
+    [SQL](https://www.sololearn.com/Certificate/1060-9937550/pdf/);
+    [HTML](https://www.sololearn.com/Certificate/1014-9937550/pdf/);
+    [C++](https://www.sololearn.com/Certificate/1051-9937550/pdf/).
+8. __English:__ _A2+_
