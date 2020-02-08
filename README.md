@@ -1,1 +1,1 @@
-# https://github.com/NaekYouk/rsschool-cv/cv
+# https://naekyouk.github.io/rsschool-cv/cv
