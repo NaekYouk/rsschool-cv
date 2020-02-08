@@ -8,3 +8,10 @@
     >Сurrently I am a third year student and in my free time I like to reading a books, create various project and going to the GYM.
     >In addition to that, i think that self-decelopment is an essential part of our live, that's why i‘m thirsty for knowledge
 4. __Pascal, Delphi, C, C++, HTML, CSS, JavaScript, SQL, React, BEM, Less, SASS, Git.__
+5. __Latest projects:__ [My business card](https://naekyouk.github.io/businessCard.github.io/), [TicTacToe](https://github.com/NaekYouk/TicTacToe)
+6.  Courses projects|Assessments
+	--------------|------------
+	Just a pong(Delphi)| 10
+	Puzzle(C)| 9
+	Operations research(С)| 8
+	SQL | 9
